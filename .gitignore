@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.db-journal
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Environment/secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+coverage/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+*.bak
+*.orig
+*.tmp
+
+# Generated/local data
+backend/.pytest_cache/
+backend/lenny.db
+backend/*.db
+backend/*.sqlite3
+backend/.coverage
+backend/.coverage.*
+
+data/*.db
+
+docs/_build/
+
+# Ignore local nested copy if present in this workspace
+lenny-growth-assistant/

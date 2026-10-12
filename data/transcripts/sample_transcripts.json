@@ -1,0 +1,26 @@
+{
+  "sources": [
+    {
+      "title": "Lenny Product Strategy: Finding a wedge",
+      "url": "https://example.com/lenny-wedge",
+      "author": "Lenny Rachitsky",
+      "episode": "Product Strategy",
+      "chunks": [
+        {"text": "The best founders start by discovering the narrowest valuable problem instead of chasing a broad market. A wedge is a clear customer pain that creates urgency and makes a product feel necessary."},
+        {"text": "When teams focus on one segment and one recurring job, the feedback loop becomes sharper. They can learn whether people keep returning and whether the product meaningfully changes behavior."},
+        {"text": "Strong product growth tends to come from repeated learning, not from launching an overbuilt platform with no signal from users."}
+      ]
+    },
+    {
+      "title": "Lenny Growth Signals: Experimentation frameworks",
+      "url": "https://example.com/lenny-growth-signals",
+      "author": "Lenny Rachitsky",
+      "episode": "Growth Signals",
+      "chunks": [
+        {"text": "A good experiment is the smallest test that answers a business question. The goal is not to build a complicated dashboard but to learn whether the customer relationship is worth doubling down on."},
+        {"text": "Retention, referral language, and real usage are much more informative than vanity metrics. You want evidence that people are changing behavior because your product creates value."},
+        {"text": "A practical growth plan begins by isolating the single behavior you want to change and then measuring whether the intervention moves it in the right direction."}
+      ]
+    }
+  ]
+}
